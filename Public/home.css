@@ -1,0 +1,33 @@
+body{
+    color: white;
+}
+.home{
+    background-color: rgb(2, 1, 14);
+}
+.services{
+    background-color: rgb(2, 1, 14);
+}
+.about{
+    background-color: rgb(2, 1, 14);
+}
+
+.contact{
+    color: white;
+}
+h2{
+    text-align: center;
+    margin: 2rem;
+}
+.para1{
+    display: flex;
+    padding-bottom: 5;
+    padding-top: 10;
+    color: #ffffff;
+    margin: 5rem;
+    
+}
+.para1  p{
+    padding: 12;
+    font-size: 16;
+    line-height: 1.9;
+}
